@@ -2,7 +2,7 @@ h1{
 text-align: center;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.container{
+#card{
 display: flex;
 justify-content: center;
 gap: 20px;
@@ -10,7 +10,7 @@ flex-wrap: wrap;
 padding: 20px;
 }
 
-.producto{
+#card{
 width: 250px;
 background-color: white;
 padding: 15px;
